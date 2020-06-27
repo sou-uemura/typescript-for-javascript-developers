@@ -43,5 +43,3 @@ enum COLORS {
     YELLOW = '#FFFF00',
     GRAY = '#808080'
 }
-
-COLORS.YELLOW;
