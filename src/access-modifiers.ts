@@ -28,6 +28,7 @@ class Android extends Person {
 }
 
 let taro = new Person('Taro', 30, 'Japan');
+
 console.log(taro.profile());
 console.log(taro.name);
 // console.log(taro.age);
